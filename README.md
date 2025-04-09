@@ -38,4 +38,4 @@ These combinations enhance the accuracy for Backhand and Forehand to over 90%.
 ![Accuracy of stacked models](https://github.com/jamesoliver1981/DemoTennis/blob/main/Images/ModelAccuracy.png)  
 As these are core shots in tennis, these models are used as the basis.  
 
-Overally prediction accuracy of volleys and slice are not satisfactory and these are areas upon which further development is needed.
+Overall prediction accuracy of volleys and slice are not satisfactory and these are areas upon which further development is needed.
