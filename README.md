@@ -43,7 +43,7 @@ Overall prediction accuracy of volleys and slice are not satisfactory and these 
 ### Visualisations
 
 This section shows an example of the visualisations I am considering adding to the app.  
-The notebook for creating these visuals can be found ([here](https://github.com/jamesoliver1981/DemoTennis/blob/main/New_Visualisations/Visualise_ServePlus_Shots.ipynb)  
+The notebook for creating these visuals can be found [here](https://github.com/jamesoliver1981/DemoTennis/blob/main/New_Visualisations/Visualise_ServePlus_Shots.ipynb)  
 
 As an introduction, it is important to understand that contrary to popular opinion, the majority of tennis points are short.  
 This bar chart shows that 60% of points are over once you have played just 2 shots.
