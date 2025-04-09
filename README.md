@@ -20,7 +20,7 @@ These will be be explored in a Visualisations notebook (TBA)
 
 ### Predictions Summary
 
-This section gives an overview of the outcome of the model building that is demonstrated in the "Building Highly Accurate Predictions" notebook.  
+This section gives an overview of the outcome of the model building that is demonstrated in the ["Building Highly Accurate Predictions"](https://github.com/jamesoliver1981/DemoTennis/blob/main/Building_Predictions/Building_Highly_Accurate_Shot_Predictions_in_Tennis.ipynb) notebook.  
 
 The data used to model is already in a tabular format.  There are 8607 shots.
 Each row represents 1 shot (labelled) and 366 variables.  
