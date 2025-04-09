@@ -29,8 +29,8 @@ These variables are 61 milliseconds centred around the shot contact point and ex
 The models focus on taking different time sections of the 61 milliseconds to determine which have the best predictive power.  
 Some limited hyper parameter testing is done.  
 
-The multi classification models are evaluation through accuracy evaluation & review of shot performance via cross tabs.
-![Crosstab results of stacked models](https://github.com/jamesoliver1981/DemoTennis/blob/main/Images/CrossTab.png)
+The multi classification models are evaluation through accuracy evaluation & review of shot performance via cross tabs.  
+![Crosstab results of stacked models](https://github.com/jamesoliver1981/DemoTennis/blob/main/Images/CrossTab.png)  
 
 To boost the results, models with different set ups are blended together to get a higher overally accuracy rate.
 
