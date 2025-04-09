@@ -1,4 +1,4 @@
-# Sharing the insights &amp; methods for building Mydigitaltenniscoach
+# Sharing the insights &amp; methods for building MyDigitalTennisCoach
 
 This repo demonstrates some of the core work that has been done to create My Digital Tennis Coach (MDTC).  
 MDTC generates insights in your match performance so you know what you need to train on, so you can improve quicker.
